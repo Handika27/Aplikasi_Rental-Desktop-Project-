@@ -1,0 +1,11 @@
+# Folder kompilasi & aplikasi jadi (tidak perlu ke GitHub)
+/build/
+/dist/
+
+# Settingan privat lokal NetBeans
+/nbproject/private/
+
+# File temporary & log OS
+*.log
+.DS_Store
+Thumbs.db
